@@ -1,6 +1,6 @@
 # personal-blog
 
-This is the third my layout.
+This is the second my layout.
 # where you will see the first image this followed the pattern!)
 
 To check all the beauty of this layout follow this link):
